@@ -67,5 +67,6 @@
 {"id":65,"first_name":"Lucina","last_name":"Stendell","full_name":"Lucina Stendell","avatar":null,"job_title":"Chief Design Engineer","department":"operations","frequency":100,"email":"lstendell1s@list-manage.com","mobile":"+255 589 761 7447","status":"active","status_color":"#ff6655"},
 {"id":66,"first_name":"Obadias","last_name":"Baroux","full_name":"Obadias Baroux","avatar":"https://robohash.org/nobisquiaveniam.png?size=50x50&set=set1","job_title":"Office Assistant IV","department":"operations","frequency":100,"email":"obaroux1t@discovery.com","mobile":null,"status":"active","status_color":"#ff6655"},
 {"id":67,"first_name":"Vonni","last_name":"Ecclestone","full_name":"Vonni Ecclestone","avatar":"https://robohash.org/autveldeserunt.bmp?size=50x50&set=set1","job_title":"Actuary","department":"product","frequency":100,"email":"vecclestone1u@thetimes.co.uk","mobile":"+380 760 777 9536","status":"pending","status_color":"#ff6655"},
-{"id":68,"first_name":"Dud","last_name":"Oven","full_name":"Dud Oven","avatar":"https://robohash.org/voluptaseaquequidem.jpg?size=50x50&set=set1","job_title":null,"department":"product","frequency":100,"email":"doven1v@hhs.gov","mobile":"+62 311 722 5667","status":"pending","status_color":"#ff6655"},
-}
+{"id":68,"first_name":"Dud","last_name":"Oven","full_name":"Dud Oven","avatar":"https://robohash.org/voluptaseaquequidem.jpg?size=50x50&set=set1","job_title":null,"department":"product","frequency":100,"email":"doven1v@hhs.gov","mobile":"+62 311 722 5667","status":"pending","status_color":"#ff6655"}
+
+]}
